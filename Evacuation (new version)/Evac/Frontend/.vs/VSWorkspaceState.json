@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public\\assets",
+    "\\public\\icons",
+    "\\public\\models",
+    "\\src",
+    "\\src\\common",
+    "\\src\\components",
+    "\\src\\context",
+    "\\src\\screens",
+    "\\src\\services"
+  ],
+  "SelectedNode": "\\src\\common\\Constants.ts",
+  "PreviewInSolutionExplorer": false
+}
